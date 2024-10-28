@@ -10,8 +10,6 @@ Shoppix is a full-featured Django backend for modern e-commerce applications. Th
 
 &nbsp;
 
-&nbsp;
-
 ## Setup
 To get started, follow the following steps:
 1. Install project dependencies (Python 3.6, virtualenv, MySQL8.0) on your local machine
