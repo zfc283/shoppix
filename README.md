@@ -1,5 +1,5 @@
 ## Description
-Shoppix is a full-featured Django backend for modern e-commerce applications. This robust project offers a comprehensive suite of RESTful APIs including product management, user authentication and authorization, content management, and end-to-end order processing.
+Shoppix is a full-featured Django backend for modern e-commerce applications, delivering RESTful APIs for comprehensive product, category, and content management (including banners and featured items), as well as user profiles, authentication, and order processing
 
 &nbsp;
 
